@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* .align-content-md-start {
+  width: 100%;
+  display: inline-block;
+}
+@media screen and (max-width: 500px) {
+  .align-content-md-start {
+    width: 80%;
+    margin: auto;
+  }
+} */
